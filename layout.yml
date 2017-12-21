@@ -1,49 +1,41 @@
-# A layout designed for a card to be held in your hand.
-#   * Bonuses align along the left-hand side.
-#   * Title along the top.
-#   * Middle area for artwork,
-#   * Room for a text description
-#   * And some theme-based text (which I like call the "snark")
-# Along the lines of Race for the Galaxy or 7 Wonders
-# Based on TheGameCrafter.com's Poker Card, which is 825x1125
-# Sample usage is found in samples/layouts.rb
-title:
-  x: 275
+name:
+  x: 200
   y: 75
-  width: 475
-  height: 125
+  width: 500
+  height: 150
 art:
-  x: 275
-  y: 225
-  width: 475
-  height: 475
+  x: 200
+  y: 400
+  width: 500
+  height: 500
 description:
   x: 275
   y: 725
-  width: 475
-  height: 200
-snark:
+  width: 500
+  height: 225
+subtype:
   x: 275
   y: 950
-  width: 475
-  height: 100
+  width: 500
+  height: 75
 bonus1:
   x: 75
-  y: 75
-  width:  175
-  height: 175
+  y: 225
+  width:  75
+  height: 75
 bonus2:
   extends: bonus1
-  y: += 198
+  x: += 100
 bonus3:
   extends: bonus2
-  y: += 198
+  x: += 100
 bonus4:
   extends: bonus3
-  y: += 198
+  x: += 100
 bonus5:
   extends: bonus4
-  y: += 198
+  x: += 100
+
 
 # The "cut line", without rounded corners
 cut:
