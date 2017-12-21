@@ -1,9 +1,0 @@
-Nome,Ambiente,Valor,Espiral,Desc,Qty
-Rato,Terra,1,,"""Cerca de 40% dos mamíferos são roedores.""",4
-Serpente,Terra,2,,"""Se localiza espacialmente através da língua.""",3
-Macaco,Terra,3,,"""Humanoides não-humanos.""",2
-Crocodilo,Terra,4,cycle.png,"""Substituem seus 80 dentes 50 vezes durante a vida.""",1
-Atum,Mar,1,,"""Um peixe comprido e esguio, adaptado para velocidade.""",4
-Golfinho,Mar,2,,"""Um dos mais inteligentes vertebrados.""",3
-Polvo,Mar,3,,"""Um dos mais inteligentes invertebrados.""",2
-Baleia,Mar,4,cycle.png,"""É um mamífero no fim das contas.""",1
