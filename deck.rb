@@ -1,7 +1,7 @@
 # encoding: UTF-8
 require 'squib'
 
-Squib::Deck.new(cards: 20, layout: ['hand.yml','layout.yml']) do
+Squib::Deck.new(cards: 20, layout: ['layout.yml']) do
   background color: :white
   rect layout: 'cut'
   rect layout: 'safe'
@@ -20,7 +20,7 @@ Squib::Deck.new(cards: 20, layout: ['hand.yml','layout.yml']) do
 
 end
 
-Squib::Deck.new(cards: 29, layout: ['hand.yml','layout.yml']) do
+Squib::Deck.new(cards: 29, layout: ['layout.yml']) do
   background color: :white
   rect layout: 'cut'
   rect layout: 'safe'
