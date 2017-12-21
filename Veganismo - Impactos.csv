@@ -5,7 +5,7 @@ Contrabando,,,,Humano,"Ganhe o controle de qualquer animal. Seu controlador olha
 Pescador,,,,Humano,"Destrua um animal do mar.",3,Pescador
 Caçador,,,,Humano,"Destrua um animal da terra.",3,Cacador
 Tsunami,,,,Natural,"Embaralhe sua mão e todos os animais do mar no deck. (Esta carta é colocada na pilha de descarte.)",1,Tsunami
-Veganismo,,star.png,,"Humano,Use somente em resposta a um Caçador ou Pescador. Anule o efeito daquela carta e o controlador dela recebe mais uma ação neste turno.",3,Veganismo
+Veganismo,,star.png,,Humano,"Use somente em resposta a um Caçador ou Pescador. Anule o efeito daquela carta e o controlador dela recebe mais uma ação neste turno.",3,Veganismo
 Queimada,,,,Natural,"Embaralhe todos os animais da terra de valor 3 ou maior.",1,Queimada
 Correnteza,,,,Natural,"Coloque todos os animais do mar de valor 2 ou menor no fundo do deck em ordem aleatória.",1,Correnteza
 Frustrar,cycle.png,,,Humano,"Destrua qualquer carta com a face voltada para baixo.",2,Frustrar
