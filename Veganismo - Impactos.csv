@@ -4,18 +4,18 @@ Arqueólogo,,,,Humano,"Coloque na sua mão uma carta de impacto do descarte.",1,
 Contrabando,,,,Humano,"Ganhe o controle de qualquer animal. Seu controlador olha sua mão e escolhe qualquer carta lá para colocar na própria mão.",1,Contrabando
 Pescador,,,,Humano,"Destrua um animal do mar.",3,Pescador
 Caçador,,,,Humano,"Destrua um animal da terra.",3,Cacador
-Tsunami,,,,Natural,"Embaralhe sua mão e todos os animais do mar no deck. (Esta carta é colocada na pilha de descarte.)",1,Tsunami
+Tsunami,,,,Natural,"Embaralhe sua mão e todos os animais do mar no deck (Esta carta é colocada na pilha de descarte.), depois compre uma quantidade de cartas igual àquela que foi embaralhada.",1,Tsunami
 Veganismo,,star.png,,Humano,"Use somente em resposta a um Caçador ou Pescador. Anule o efeito daquela carta e o controlador dela recebe mais uma ação neste turno.",3,Veganismo
-Queimada,,,,Natural,"Embaralhe todos os animais da terra de valor 3 ou maior.",1,Queimada
+Queimada,cycle.png,,,Natural,"Embaralhe todos os animais da terra no deck.",1,Queimada
 Correnteza,,,,Natural,"Coloque todos os animais do mar de valor 2 ou menor no fundo do deck em ordem aleatória.",1,Correnteza
 Frustrar,cycle.png,,,Humano,"Destrua qualquer carta com a face voltada para baixo.",2,Frustrar
 Desmatar,,,,Humano,"Devolva cada animal da terra para a mão de quem o controla.",1,Desmatamento
-Seleção,,,,Humano,"Escolha um valor. Coloque todos os animais do valor escolhido no fundo do deck em ordem aleatória.",1,Selecao
+Seleção,,,,Humano,"Escolha um valor. Destrua todos os animais do valor escolhido.",1,Selecao
 Lagoa,,,,Natural,"Compre quatro cartas. Depois, se você controlar dois ou mais animais da terra, devolva esta carta para sua mão.",1,Lagoa
 Tempestade,,,,Natural,"Coloque no fundo do deck cada animal de valor 1 em ordem aleatória.",1,Tempestade
 Inundação,,,,Natural,"Cada jogador escolhe um animal da terra que controla e devolve todos os outros animais da terra pra mão.",0,Inundacao
 Avareza,cycle.png,,,Humano,"Ganhe o controle de um animal de outro jogador. Coloque esta carta na mão daquele jogador.",1,Avareza
-Renovação,cycle.png,,,Natural,"Embaralhe todos os animais. Cada jogador compra uma carta para cada animal que controlava embaralhado dessa maneira.",1,Renovacao
+Renovação,cycle.png,,,Natural,"Embaralhe todos os animais em jogo e da pilha de descarte. Cada jogador compra uma carta para cada animal que controlava embaralhado dessa maneira.",1,Renovacao
 Apresar,,,,Natural,"Escolha um animal que você controla; coloque um animal do mesmo ambiente e de valor menor no fundo do deck.",1,Apresar
 Troca,,,,Humano,"Troque o controle entre dois animais.",1,Troca
 Peste,cycle.png,,,Natural,"Para cada ambiente dentre os animais que você controla, coloque todos animais daquele ambiente no fundo do deck em ordem aleatória.",1,Peste
