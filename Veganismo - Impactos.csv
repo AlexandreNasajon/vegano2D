@@ -16,7 +16,7 @@ Tempestade,,,,Natural,"Coloque no fundo do deck cada animal de valor 1 em ordem 
 Inundação,,,,Natural,"Cada jogador escolhe um animal da terra que controla e devolve todos os outros animais da terra pra mão.",0,Inundacao
 Avareza,cycle.png,,,Humano,"Ganhe o controle de um animal de outro jogador. Coloque esta carta na mão daquele jogador.",1,Avareza
 Renovação,cycle.png,,,Natural,"Embaralhe todos os animais em jogo e da pilha de descarte. Cada jogador compra uma carta para cada animal que controlava embaralhado dessa maneira.",1,Renovacao
-Apresar,,,,Natural,"Escolha um animal que você controla; coloque um animal do mesmo ambiente e de valor menor no fundo do deck.",1,Apresar
+Apresar,,,,Natural,"Escolha um animal qualquer; coloque um outro animal do mesmo ambiente e de valor menor no fundo do deck.",1,Apresar
 Troca,,,,Humano,"Troque o controle entre dois animais.",1,Troca
 Peste,cycle.png,,,Natural,"Para cada ambiente dentre os animais que você controla, coloque todos animais daquele ambiente no fundo do deck em ordem aleatória.",1,Peste
 Martirizar,,,ring.png,Humano,"Anexe esta carta a um animal (seu ou de um oponente). Se o animal sair de jogo, quem jogou esta carta compra cinco cartas; depois destrua esta carta.",1,Martirizar
