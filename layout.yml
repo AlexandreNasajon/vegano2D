@@ -1,40 +1,62 @@
 name:
-  x: 200
+  x: 225
   y: 75
-  width: 500
-  height: 150
+  width: 375
+  height: 100
+  font: 'Arial 20'
+  align: :center
 art:
-  x: 200
-  y: 400
+  x: 162.5
+  y: 230
   width: 500
   height: 500
-description:
+environment:
   x: 275
-  y: 725
-  width: 500
+  y: 750
+  width: 300
   height: 225
-subtype:
-  x: 275
-  y: 950
+  font: 'Arial 24'
+  align: :center
+flavortext:
+  x: 200
+  y: 900
   width: 500
   height: 75
-bonus1:
+  font: 'Arial italic 8'
+value:
+  x: 600
+  y: 75
+  width: 150
+  height: 150
+  font: 'Arial bold 30'
+  align: :center
+icon:
   x: 75
-  y: 225
-  width:  75
-  height: 75
-bonus2:
-  extends: bonus1
-  x: += 100
-bonus3:
-  extends: bonus2
-  x: += 100
-bonus4:
-  extends: bonus3
-  x: += 100
-bonus5:
-  extends: bonus4
-  x: += 100
+  y: 75
+  width: 150
+  height: 150
+effect:
+  x: 100
+  y: 750
+  width: 600
+  height: 300
+  font: 'Arial 10'
+  justify: true
+#bonus2:
+  #extends: bonus1
+  #x: += 100
+#bonus3:
+#  extends: bonus2
+#  x: += 100
+#bonus4:
+#  extends: bonus3
+#  x: += 100
+version:
+  x: 80
+  y: 1000
+  width:  100
+  height: 100
+  font: 'Arial 10'
 
 
 # The "cut line", without rounded corners
