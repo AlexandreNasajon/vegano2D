@@ -15,9 +15,16 @@ Squib::Deck.new(cards: 20, layout: ['layout.yml']) do
       when 8..9 then 16
       when 10..12 then 14
       when 13..14 then 12
-      when 12..50 then 10
+      when 15..50 then 10
     end
   end
+  #dy = data['Num'].map do |n|
+  #  case n
+  #    when 0..9 then 18
+  #    when 9..100 then 16
+  #  end
+  #end
+  #text str: data['Nome'].map!{|x| x.force_encoding(::Encoding::UTF_8)}, layout: 'name',y: dy
   text str: data['Nome'].map!{|x| x.force_encoding(::Encoding::UTF_8)}, layout: 'name', font_size: fsize
   text str: data['Ambiente'].map!{|x| x.force_encoding(::Encoding::UTF_8)}, layout: 'environment'
   text str: data['Valor'], layout: 'value'
@@ -43,9 +50,9 @@ Squib::Deck.new(cards: 29, layout: ['layout.yml']) do
     case name.length
       when 0..7 then 18
       when 8..9 then 16
-      when 10..12 then 14
-      when 13..14 then 12
-      when 12..50 then 10
+      when 10..11 then 14
+      when 12..14 then 13
+      when 15..50 then 10
     end
   end
   text str: data['Nome'].map!{|x| x.force_encoding(::Encoding::UTF_8)}, layout: 'name', font_size: fsize

@@ -1,23 +1,25 @@
 Nome,Espiral,Estrela,Equip,Tipo,Desc,Qty,Img
 Submarino,,,,Humano,"Revele seis cartas do topo do baralho. Coloque todos os animais do mar revelados assim na sua mão e embaralhe o restante no deck.",1,Submarino
-Arqueólogo,,,,Humano,"Coloque na sua mão uma carta de impacto da pilha de descarte.",1,Arqueologo
-Contrabando,,,,Humano,"Ganhe o controle de qualquer animal. Seu controlador olha sua mão e escolhe qualquer carta lá para colocar na própria mão.",1,Contrabando
+Arqueólogo,,,,Humano,"Coloque uma carta de impacto da pilha de descarte na sua mão.",1,Arqueologo
+Contrabando,,,,Humano,"Ganhe o controle de qualquer animal. Seu antigo controlador olha sua mão e escolhe qualquer carta dela para colocar na própria mão.",1,Contrabando
 Pescador,,,,Humano,"Destrua um animal do mar.",3,Pescador
 Caçador,,,,Humano,"Destrua um animal da terra.",3,Cacador
-Tsunami,,,,Natural,"Embaralhe sua mão e todos os animais do mar no baralho, depois compre uma quantidade de cartas igual à que você tinha na mão.",1,Tsunami
-Veganismo,,star.png,,Humano,"Use somente em resposta a um Caçador ou Pescador. Anule o efeito daquela carta e o controlador dela recebe mais uma ação neste turno.",3,Veganismo
+Tsunami,,,,Natural,"Embaralhe sua mão e todos os animais do mar no baralho, depois compre uma quantidade de cartas igual àquela que você tinha na mão.",1,Tsunami
+Veganismo,,star.png,,Humano,"[Use somente quando alguém usar um Caçador ou Pescador.] Anule o efeito daquela carta e seu controlador recebe uma ação adicional neste turno.",1,Veganismo
 Queimada,cycle.png,,,Natural,"Embaralhe todos os animais da terra no baralho.",1,Queimada
 Correnteza,,,,Natural,"Coloque todos os animais do mar de valor 2 ou menor no fundo do baralho em ordem aleatória.",1,Correnteza
 Frustrar,cycle.png,,,Humano,"Destrua uma carta com a face voltada para baixo.",2,Frustrar
-Desmatar,,,,Humano,"Devolva cada animal da terra para a mão de quem o controla.",1,Desmatamento
-Seleção,,,,Humano,"Escolha um valor. Destrua todos os animais do valor escolhido.",1,Selecao
-Lagoa,,,,Natural,"Compre quatro cartas. Depois, se você controlar dois ou mais animais da terra, devolva esta carta para a sua mão.",1,Lagoa
-Tempestade,,,,Natural,"Coloque cada animal de valor 1 no fundo do baralho em ordem aleatória.",1,Tempestade
+Desmatamento,,,,Humano,"Devolva cada animal da terra para a mão de quem o controla.",1,Desmatamento
+Seleção,,,,Humano,"Escolha um animal que você controla. Destrua o animal escolhido e todos os animais de mesmo valor.",1,Selecao
+Lagoa,,,,Natural,"Coloque até dois animais de valor total 5 ou menor da pilha de descarte na sua mão.",1,Lagoa
+Tempestade,,,,Natural,"Coloque todos os animais de valor 1 no fundo do baralho em ordem aleatória.",1,Tempestade
 Avareza,cycle.png,,,Humano,"Ganhe o controle de um animal de outro jogador. Coloque esta carta na mão daquele jogador.",1,Avareza
 Renovação,cycle.png,,,Natural,"Embaralhe todos os animais da mesa e da pilha de descarte no baralho. Cada jogador compra uma carta para cada animal que controlava.",1,Renovacao
 Apresar,,,,Natural,"Escolha um animal qualquer. Coloque um outro animal do mesmo ambiente e de valor menor no fundo do baralho.",1,Apresar
 Troca,,,,Humano,"Troque o controle entre dois animais.",1,Troca
-Peste,cycle.png,,,Natural,"Para cada ambiente dentre os animais que você controla, coloque todos os animais daquele ambiente no fundo do baralho em ordem aleatória.",1,Peste
-Martirizar,,,ring.png,Humano,"Anexe esta carta a um animal qualquer. Se o animal sair de jogo, quem jogou esta carta compra cinco cartas; depois destrua esta carta.",1,Martirizar
+Peste,,,,Natural,"Escolha um animal que você controla. Coloque o animal escolhido e todos os animais de mesmo ambiente no fundo do baralho em ordem aleatória.",1,Peste
+Martirizar,,,ring.png,Humano,"Anexe esta carta a um animal qualquer. Se o animal sair da mesa, quem jogou esta carta compra cinco cartas; depois destrua esta carta.",1,Martirizar
 Domesticar,,,,Humano,"Ganhe o controle de um animal de valor 2 ou menor.",1,Domesticar
 Biólogo,,,,Humano,"Compre uma quantidade de cartas igual ao valor total dos seus animais.",1,Biologo
+Veterinário,cycle.png,,,Humano,"Coloque um animal de valor 3 ou menor da pilha de descarte na mesa sob seu controle.",1,Veterinario
+Capturar,cycle.png,,,Humano,"Escolha um animal qualquer. Coloque o animal escolhido no seu lado da mesa com a face voltada para baixo.",1,Capturar
