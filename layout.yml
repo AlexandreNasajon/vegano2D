@@ -3,38 +3,19 @@ name:
   y: 75
   width: 375
   height: 100
-  font: 'Arial 20'
+  font: 'Arial 18'
   align: :center
 art:
   x: 162.5
-  y: 230
-  width: 500
-  height: 500
-environment:
-  x: 275
-  y: 750
-  width: 300
-  height: 225
-  font: 'Arial 24'
-  align: :center
-flavortext:
-  x: 200
-  y: 900
-  width: 500
-  height: 75
-  font: 'Arial italic 8'
-value:
-  x: 600
-  y: 75
-  width: 150
-  height: 150
-  font: 'Arial bold 30'
-  align: :center
-icon:
-  x: 75
-  y: 75
-  width: 150
-  height: 150
+  y: 220
+  width: 460
+  height: 460
+cardtype:
+  x: 100
+  y: 690
+  width: 600
+  height: 100
+  font: 'Arial bold 10'
 effect:
   x: 100
   y: 750
@@ -42,21 +23,50 @@ effect:
   height: 300
   font: 'Arial 10'
   justify: true
+environment:
+  x: 275
+  y: 750
+  width: 300
+  height: 225
+  font: 'Arial 18'
+  align: :center
+environment2:
+  extends: environment
+  y: += 100
+flavortext:
+  x: 100
+  y: 950
+  width: 500
+  height: 75
+  font: 'Arial italic 8'
+value:
+  x: 75
+  y: 75
+  width: 150
+  height: 150
+  font: 'Arial bold 30'
+  align: :center
+points:
+  x: 75
+  y: 200
+  width: 150
+  height: 150
+  font: 'Arial 8'
+  align: :center
+icon:
+  x: 75
+  y: 75
+  width: 150
+  height: 150
 #bonus2:
   #extends: bonus1
   #x: += 100
-#bonus3:
-#  extends: bonus2
-#  x: += 100
-#bonus4:
-#  extends: bonus3
-#  x: += 100
 version:
-  x: 80
+  x: 670
   y: 1000
   width:  100
   height: 100
-  font: 'Arial 10'
+  font: 'Arial 8'
 
 
 # The "cut line", without rounded corners
