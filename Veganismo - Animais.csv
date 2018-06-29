@@ -1,6 +1,6 @@
 Nome,Ambiente,Ambiente2,Valor,Desc,Qty
 Rato,Terrestre,,1,"""Cerca de 40% dos mamíferos são roedores.""",5
-Serpente,Terrestre,,2,"""Se localiza espacialmente através da língua.""",4
+Serpente,Terrestre,,2,"""Localiza-se espacialmente através da língua.""",4
 Macaco,Terrestre,,3,"""Humanoides não-humanos.""",3
 Crocodilo,Terrestre,Aquático,4,"""Substituem seus 80 dentes 50 vezes durante a vida.""",1
 Peixe,Aquático,,1,"""Um peixe comprido e esguio, adaptado para velocidade.""",5
